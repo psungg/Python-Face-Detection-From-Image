@@ -106,4 +106,4 @@ quit()
 
 ## Result
 
-![Fig01]()
+![Fig01](https://github.com/psungg/Python-Face-Detection-From-Image/blob/main/Images/Fig01.png)
